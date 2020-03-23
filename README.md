@@ -4,7 +4,7 @@
 2: run `mod.exe` and follow the instructions  
 
 **manual setup:**  
-1: download latest release from the repo  
+1: download latest release from the [`releases`](https://github.com/homamgamer/filehost/releases)  
 2: move (`localization.lang`) and (`streaminginstall.ini`) to the root folder of the game   
 Default paths are:  
 Uplay >> [`Ubisoft Game Launcher\games\Tom Clancy's Rainbow Six Siege`]  
