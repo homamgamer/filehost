@@ -1,6 +1,6 @@
 
 **Automated setup:**  
-1:  download mod.exe  
+1:  download `mod.exe`  
 2: run `mod.exe` and follow the instructions  
 
 **manual setup:**  
