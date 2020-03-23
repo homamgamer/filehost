@@ -1,7 +1,7 @@
 
 **Automated setup:**  
-1:  download `mod.exe`  
-2: run `mod.exe` and follow the instructions  
+1:  download the latest release of Rmod [from here](https://github.com/Zipliks/rmod/releases)   
+2: run `rmod.exe` and follow the instructions  
 
 **manual setup:**  
 1: download latest release from the [`releases`](https://github.com/homamgamer/r6s-English/releases)  
